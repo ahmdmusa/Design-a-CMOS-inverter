@@ -21,11 +21,12 @@ and draw its layout, calculate parasitic capacitance
 ![image](https://user-images.githubusercontent.com/66570093/170602846-55a148fe-7698-4f25-ae5e-6fbe27b16540.png)
 
   ![image](https://user-images.githubusercontent.com/66570093/170602920-2f76c177-cb6b-4b67-819c-d05b8b845aad.png)
-![image](https://user-images.githubusercontent.com/66570093/170602942-1e339186-73fa-41d7-94db-81864d815d9f.png)
 
 
 ### Run dc simulation with design parameters Vbias 
- 
+ ![image](https://user-images.githubusercontent.com/66570093/170602942-1e339186-73fa-41d7-94db-81864d815d9f.png)
+![image](https://user-images.githubusercontent.com/66570093/170603635-0ad98855-10d4-4cdb-a5d0-0a8a4cad874d.png)
+
  
 ![image](https://user-images.githubusercontent.com/66570093/170602979-9529cd88-7020-4af1-9e1f-07746b0622d3.png)
 
