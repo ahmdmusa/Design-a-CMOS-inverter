@@ -4,9 +4,7 @@
 and draw its layout, calculate parasitic capacitance 
  for NMOS we use W/L = 1.5um/65nm && for PMOS W/L=2um/65nm *
 
-
-![alt text](![image](https://user-images.githubusercontent.com/66570093/170602495-13058431-589d-4105-94e9-bb306575c1c0.png)
-)
+![image](https://user-images.githubusercontent.com/66570093/170603308-892ff418-8b1f-49b4-84bc-fed1c576a21b.png)
 
 
 ### create a symbol 
