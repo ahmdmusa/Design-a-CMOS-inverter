@@ -50,8 +50,8 @@ and draw its layout, calculate parasitic capacitance
 
  
 ### DRC :
- 
-![image](https://user-images.githubusercontent.com/66570093/170603236-90b79fdd-d472-43fb-b8e8-73a9b1f1ccc9.png)
+ ![image](https://user-images.githubusercontent.com/66570093/170606861-f900a527-64f9-4475-a26a-9fbaba4d2de9.png)
+
 
 
  
