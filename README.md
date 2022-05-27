@@ -1,8 +1,8 @@
 # Design-a-CMOS-inverter - cadence virtuoso 
 ## Aim:
-*Design using cadence virtuouso a CMOS Inverter using TCMC65n technology & cal Vth – TpHL – TpLH – Power consumption
+Design using cadence virtuouso a CMOS Inverter using TCMC65n technology & cal Vth – TpHL – TpLH – Power consumption
 and draw its layout, calculate parasitic capacitance 
- for NMOS we use W/L = 1.5um/65nm && for PMOS W/L=2um/65nm *
+ for NMOS we use W/L = 1.5um/65nm && for PMOS W/L=2um/65nm 
 
 ![image](https://user-images.githubusercontent.com/66570093/170603308-892ff418-8b1f-49b4-84bc-fed1c576a21b.png)
 
